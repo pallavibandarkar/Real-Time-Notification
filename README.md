@@ -58,7 +58,7 @@ npm run dev
 - Live feedback on success and errors
 - Input validation to prevent empty messages
 - Clean UI built with Material UI (MUI)
-## Screenshots
+## Screenshot
 
-![App Screenshot]((./screenshots/img.png))
+![App Screenshot](./screenshots/img.png)
 
